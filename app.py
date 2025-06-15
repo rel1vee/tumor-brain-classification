@@ -32,7 +32,7 @@ tumor_info = {
 }
 
 # Page configuration
-st.set_page_config(page_title="Klasifikasi Tumor Otak", layout="wide", icon="🧠")
+st.set_page_config(page_title="Klasifikasi Tumor Otak", layout="wide", page_icon="🧠")
 st.markdown("""
     <style>
     .main {

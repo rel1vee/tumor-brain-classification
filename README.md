@@ -38,7 +38,7 @@ your_project_folder/
 ## 🛠️ Persyaratan dan Instalasi
 
 ### Prasyarat
-- Python 3.8 atau lebih tinggi
+- Python 3.11
 - Git (untuk mengelola repository)
 - Akun GitHub dan Streamlit Cloud untuk deployment
 
@@ -133,7 +133,7 @@ Kami menyambut kontribusi untuk meningkatkan aplikasi ini! Silakan buat *pull re
 
 ## 📧 Kontak
 
-Untuk pertanyaan atau dukungan, hubungi melalui [GitHub Issues](<URL_REPOSITORY_ANDA>/issues) atau email <your_email@example.com>.
+Untuk pertanyaan atau dukungan, hubungi melalui [GitHub Issues](<https://github.com/rel1vee/tumor-brain-classification>/issues) atau email <muhzakierbaisyas@gmail.com>.
 
 ---
 
